@@ -1,3 +1,5 @@
+![Screenshot](sun_r.png)
+
 ### Hi there 👋
 - 🔭 I’m currently working on Institute of Physics of the Czech Academy of Science
   - Developing MonteCarlo models on high energy and ultra high energy  cosmic rays.
