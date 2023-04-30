@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on Institute of Physics of the Czech Academy of Science
   - Developing MonteCarlo models on high energy and ultra high energy  cosmic rays.
  
-- 🌱 I'm currently learning how to deal with all life variables, also, meanwhile:
+- 🌱 I'm currently learning how to deal with all life variables, meanwhile:
      - Data Science in the Barcelona ITAcademy,
      - Data Science and Analytics at Universidade São Paulo
 - :bowtie:
