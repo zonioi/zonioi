@@ -1,5 +1,5 @@
 
-### Hi there 👋
+### Ahoooooj 👋
 - 🔭 I’m currently working on Institute of Physics of the Czech Academy of Science
     - Propagation of muons underground using the FLUKA Monte Carlo toolkit.
     - Work on postdoctoral research focused on the reduction of the systematic
